@@ -1,0 +1,5 @@
+# README
+
+teel is an L4(TCP) proxy for request/response dump.
+
+run `./teel` to see usage.
